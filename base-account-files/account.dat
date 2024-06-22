@@ -1,17 +1,17 @@
 AccountInstance_00000000
 PersistentId=80000001
 TransferableIdBase=0
-Uuid=[get it from calculator and paste here]
-MiiData=[get it from calculator and paste here]
-MiiName=[get it from calculator and paste here]
-AccountId=[Your PNID]
+Uuid=354168b215734423c1dc516ee8ed4fb01
+MiiData=8ae81b7bcef8e9feaf7fadaf761b2369b7fbafae5fcedc2f7b
+MiiName=0057006f006d007000200057006f006d007000000000
+AccountId=wompwomp
 BirthYear=0
 BirthMonth=0
 BirthDay=0
 Gender=0
-EmailAddress=[Your PNID's email]
+EmailAddress=cjyltcmifilqhvjwxx@gmail.com
 Country=0
 SimpleAddressId=0
-PrincipalId=[get it from calculator and paste here]
+PrincipalId=ad2dfae37
 IsPasswordCacheEnabled=1
-AccountPasswordCache=[Paste the hash result from the pass-calc here.]
+AccountPasswordCache=f71e623de017c9c5b0d67d8534f69052333fe8f5431b1d14fc28c7c687c33c23
